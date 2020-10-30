@@ -1,2 +1,2 @@
 # Hello-world
-This is my firs time ob github
+This is my firs time on github
